@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6082880feh4w4tmx/branch/main?svg=true)](https://ci.appveyor.com/project/Spider-Dad/aqahomework-2-2-selenide/branch/main)
